@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="C7306E28-5390-4DEA-8E21-AA623CC24694" version="0">
+	<info>
+		<title>2022-12-06-REVIEW_SHEET_MATHS_1</title>
+		<description/>
+	</info>
+	<files index="id24" thumbnail="id20" totalSize="2163313">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/html5-unsupported.html</file>
+		<file id="id7">data/html5.png</file>
+		<file id="id8">data/images/img-20021e97a6a0988afb83747a4f2fe7bff05ac10a.jpg</file>
+		<file id="id9">data/images/img-31f944939cbc7f1b112677a585a6af794d3c8816.png</file>
+		<file id="id10">data/images/img-6136e740cd661630bc0039373371502b3bcf3d38.jpg</file>
+		<file id="id11">data/images/img-754250189a0534d15f884490626d8f34935bbacd.jpg</file>
+		<file id="id12">data/images/img-7a150d7f300441a0ce8876a5041c037ab638f231.png</file>
+		<file id="id13">data/images/img-81d5ace89adcfbf624f3f746934a423613e6e791.jpg</file>
+		<file id="id14">data/images/img-904e9d3d223847fc39069dd4827d81cb831c5944.jpg</file>
+		<file id="id15">data/images/img-ab15d0fbc9e7b0020a611f00a79d567d26e1f416.jpg</file>
+		<file id="id16">data/images/img-c3476c1dd66786cca8b37da593812aee77f0437c.png</file>
+		<file id="id17">data/images/img-f832d09ba427502af379c7f89a75a10f276e49c3.png</file>
+		<file id="id18">data/ismplayer/app_store2x.png</file>
+		<file id="id19">data/ismplayer/play.svg</file>
+		<file id="id20">data/ismplayer/preview.png</file>
+		<file id="id21">data/ismplayer/style.css</file>
+		<file id="id22">data/ismplayer/style_mini.css</file>
+		<file id="id23">data/player.js</file>
+		<file id="id24">index.html</file>
+		<file id="id25">ismplayer.html</file>
+		<file id="id26">preview.png</file>
+	</files>
+</presentation>
+
